@@ -5,9 +5,8 @@
 <br />
 <br />
 
-# FedSTS: A Stratified Client Selection Framework for Consistently Fast Federated Learning
-
-A PyTorch implementation of our paper FedSTS: A Stratified Client Selection Framework for Consistently Fast Federated Learning.
+# FedSTaS: Client Stratification and Data Level Sampling for Efficient Federated Learning
+ICML 2025 (5135)
 
 ## Dependencies
 + Python (>=3.6)
